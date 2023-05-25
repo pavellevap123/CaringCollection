@@ -13,6 +13,7 @@
 		BA21A3EF2A1FF8840026B516 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA21A3ED2A1FF8840026B516 /* Main.storyboard */; };
 		BA21A3F12A1FF8860026B516 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA21A3F02A1FF8860026B516 /* Assets.xcassets */; };
 		BA21A3F42A1FF8860026B516 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA21A3F22A1FF8860026B516 /* LaunchScreen.storyboard */; };
+		BA21A3FE2A2004FE0026B516 /* PagingCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA21A3FD2A2004FE0026B516 /* PagingCollectionViewLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BA21A3F02A1FF8860026B516 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA21A3F32A1FF8860026B516 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA21A3F52A1FF8860026B516 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA21A3FD2A2004FE0026B516 /* PagingCollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagingCollectionViewLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BA21A3E72A1FF8840026B516 /* AppDelegate.swift */,
 				BA21A3E92A1FF8840026B516 /* SceneDelegate.swift */,
 				BA21A3EB2A1FF8840026B516 /* ViewController.swift */,
+				BA21A3FD2A2004FE0026B516 /* PagingCollectionViewLayout.swift */,
 				BA21A3ED2A1FF8840026B516 /* Main.storyboard */,
 				BA21A3F02A1FF8860026B516 /* Assets.xcassets */,
 				BA21A3F22A1FF8860026B516 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				BA21A3EC2A1FF8840026B516 /* ViewController.swift in Sources */,
 				BA21A3E82A1FF8840026B516 /* AppDelegate.swift in Sources */,
+				BA21A3FE2A2004FE0026B516 /* PagingCollectionViewLayout.swift in Sources */,
 				BA21A3EA2A1FF8840026B516 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
